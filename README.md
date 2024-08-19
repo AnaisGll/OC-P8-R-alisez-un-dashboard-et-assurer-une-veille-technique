@@ -4,7 +4,7 @@ Prêt à dépenser est une société financière qui propose des crédits à la 
 Après la mise en œuvre d'un outil de “scoring crédit” pour calculer la probabilité qu’un client rembourse son crédit, et classifier la demande en crédit accordé ou refusé, les chargés de relation client ont fait remonter le fait que les clients sont de plus en plus demandeurs de transparence vis-à-vis des décisions d’octroi de crédit. 
 Prêt à dépenser décide donc de développer un dashboard interactif pour que les chargés de relation client puissent expliquer de façon la plus transparente possible les décisions d’octroi de crédit, lors de rendez-vous avec eux. 
 
-## Missions
+# Missions
 
 1. Concevez un dashboard de credit scoring en améliorant celui élaboré lors du projet précédent 
 2. Réalisez une veille technique (modèle choisi : Contrastive Langage-Image Pre-Training, CLIP)
